@@ -112,4 +112,4 @@ git branch -D *название* #принудительное удаление
 ```
 
 ## 16. Пункт для слияние и удаления 
-aaaуурaddddfпsggggщурdfggкпот lfdfgjljrifornvjlfdggfsfkcm
+пункт для слияния нам для домашки 
